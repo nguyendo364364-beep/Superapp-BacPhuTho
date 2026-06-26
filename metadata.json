@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Counter Interaction",
+  "description": "Ứng dụng tương tác quầy giao dịch VietinBank hỗ trợ khách hàng: Giải đáp FAQs, tính lãi gửi tiết kiệm, lịch trả nợ giảm dần, và tra cứu mạng lưới chi nhánh kèm bản đồ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
